@@ -1,7 +1,6 @@
 package rel_ej03.Entidades;
 
 import java.util.ArrayList;
-import rel_ej03.Enumeraciones.Palo;
 
 
 public class Baraja {

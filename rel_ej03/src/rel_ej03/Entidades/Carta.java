@@ -4,7 +4,6 @@ import rel_ej03.Enumeraciones.Palo;
 
 
 
-
 public class Carta {
     private Integer numero;
     private Palo pinta;
